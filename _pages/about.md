@@ -17,40 +17,88 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
+I am currently a master's student at the School of Journalism and Communication, Wuhan University. My superivisor is <a href="[https://www.researchgate.net/scientific-contributions/Shiwen-Wu-2195195802]"> Professor Shiwen Wu</a> . At present, I am seeking a Ph.D. opportunity. In the second year of my postgraduate, I had the honor to participate in an exchange program at National Chengchi University (NCCU), where I studied Mixed Research methods, Global Communication and Social Movement, Contemporary Chinese Society studies at the College of Communication and Graduate Institute of East Asian Studies.
 
 
-My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
+My research interest includes Culture, History and Activism in Chinese Internet, Cross-Cultural Memory and Communication, Mediatization of society. In my future research, I hope to conduct more comparative journalism studies related to cross-cultural memory, as well as explore the discourse construction and meaning interpretation of public events by different cultural groups on social media platforms.
 
 
 # 📖 Educations
-- 2024.05 - present, Ph.D. candidate in epartment of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
-- 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
+- **Present-2025 &emsp; M.A. in Communication Studies**<br>
+&emsp;&emsp;&emsp;&emsp; School of Journalism and Communication, Wuhan University, Wuhan.<br>
+&emsp;&emsp;&emsp;&emsp; GPA: 3.92/4.0, Rank:1/31
+- **2024 &emsp; Exchange Graduate Student in Communication**<br>
+&emsp;&emsp;&emsp;&emsp; National ChengChi University, Taipei.
+- **2022 &emsp; B.A. in Journalism of Broadcast and Television**<br>
+&emsp;&emsp;&emsp;&emsp; School of Journalism and Communication, Liaoning University, Shenyang.<br>
+&emsp;&emsp;&emsp;&emsp; GPA: 4.17/4.3, Rank: 1/23
 
-# 💻 Internship Experience
-- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
-- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
+# 💻 Research Experience
+<h2 style="display: flex; justify-content: space-between;"> 
+  <span><strong>Research on Cross-cultural Memory and Cultural Identity in the Digital Age</strong></span> 
+  <span style="margin-left: auto;">Wuhan, China</span> 
+</h2>
+  <div style="display: flex; justify-content: space-between;">
+  <span><em>Research Asistant, supervised by Professor Shiwen Wu</em></span>
+  <span style="margin-left: auto;">Sep 2022 - Present</span>
+</div>
+- <p><strong>(Accomplished) Undertaking Literature Review and Project Declaration Writing.</strong> Staying abreast of the latest advancements in memory research and cross-cultural communication. identifying the foundational basis for theoretical discourse and relevant literature, elucidating the evolving dynamics of cross-cultural memory within the digital milieu.</p>
+- <p><strong>(Accomplished) Summarize the Theoretical Context and Research Progress of Cross - Cultural Memory.</strong> Synthesizing theoretical frameworks and tracking research progress in cross- cultural memory. Emphasizing the nexus between cross-cultural identity and memory in the context of globalization, digitalization, and mediatization.</p>
+- <p><strong>(In Progress) Empirical Research on Cross-Cultural Memory.</strong> Utilizing methodologies such as big data text mining, LDA semantic analysis, and critical discourse analysis, I explore empirical cases of cross-cultural memory. Through rigorous investigation, we want to enriching our understanding of cross-cultural memory dynamics and contributing to scholarly discourse.</p>
+
+<h2 style="display: flex; justify-content: space-between;"> 
+  <span><strong>Research on the Correction Effect and Optimization of Health Rumor Information under the Background of Big Data</strong></span> 
+  <span style="margin-left: auto;">Wuhan, China</span> 
+</h2>
+ <div style="display: flex; justify-content: space-between;">
+  <span><em>Research Asistant, supervised by Professor Shiwen Wu</em></span>
+  <span style="margin-left: auto;">Oct 2023 - Mar 2024</span>
+</div>
+- <p><strong> Proficient in integrating the research report.</strong> Combing the contents of chapters and adjusting the research contents.</p>
+- <p><strong> Responsible for writing the introduction of the research report.</strong> Summarizes the related research on health communication and rumor research, and expounds the significance and process of the research.</p>
+
+<h2 style="display: flex; justify-content: space-between;"> 
+  <span><strong>BBC Documentary on China and the Discourse System of Chinese Culture International Communication (2000-2015)</strong></span> 
+  <span style="margin-left: auto;">Shenyang, China</span> 
+</h2>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Research Asistant, supervised by Professor Xin Wang</em></span>
+  <span style="margin-left: auto;">Sep 2020 - Jan 2022</span>
+</div>
+- <p><strong> Interview related documentary creators.</strong> Assumed accountability for pre-interview data collection, drafting interview scripts, and transcribing interview dialogues.</p>
+- <p><strong> Co-authored research papers focusing on the analysis of documentary creation and dissemination.</strong> Employed discourse analysis and cross-cultural comparisons to scrutinize the intricate facets of documentary communication within diverse cultural contexts.</p>
 
 
 # 📝 Publications
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html)
-- WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction (Accepted by Interspeech 2024)
-- R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
-selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
-- **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[Code]](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
-- H. Wang, Y. Fu, **J. Li**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
-Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
-- **J. Li**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.[[Code]](https://github.com/mrjunjieli/DAVSE)
-- **J. Li**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. [[Code]](https://github.com/mrjunjieli/DMC_AEC)
-- **J. Li**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
-INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
+## Culture, History and Activism in Chinese Internet
+- (Major Revision) **Huang, H.** and Li, C. (2024). “Hidden in the Character Costume of Brand”: the Invisible Labor and Double Exploitation of Social Media Workers in Chinese Platform, *Convergence*.
+- (With Editor) **Huang, H.** and Lai, H. (2024). Make Conscientious National Goods Great Again: The National Goods Patriotism and the Construction of Discourse Opportunity Structure on China Social Platform. *China Perspectives*.
+- (With Editor) Wu, S., Yang, X. and **Huang, H.** (2024). Ancient Scripts enter the New World of Computing: The Historical Evolution of Chinese Input Methods. Technology in Society.
+
+## Cross-Cultural Memory and Communication
+-  Wang, X. and **Huang, H.** (2023). Pain and Consensus: A Cross-Cultural Communication Theory and Price of Trauma Common Sense. *Journalism & Communication Review* (in Chinese), 76(04): 82-90. 10.14086/j.cnki.xwycbpl.2023.04.008.
+-  Wang, X. and **Huang, H.** (2021). A Study on the Cross-cultural Narration of Chinese Traditional Cultural Symbols: Based on the Investigation of Tu Fu’s Communication in the English World. *Journalism & Communication Review* (in Chinese), 74(05):121-128. 10.14086/j.cnki.xwycbpl.2021.05.010.
+-  Wang, X. and **Huang, H.** (2021). The Shift, Reshaping and Justification of Historical Movies: The Racial Political Turn of Contemporary American Historical Movies and the Strategy of Discourse Articulation, *Journal of Shanghai University* (in Chinese), the CSSCI Q1 in Film Studies, 38 (06):56-67.
+- **Huang, H.** in Comparative Journalism Research Group. (2023). Annual Review of Comparative Journalism Studies (2021—2022). *Intercultural Communication Studies* (in Chinese), (02): 222-245.
+- **Huang, H.** (2021). The Cross-media Inheritance of Folk Culture from the Perspective of Memory Ceremony. *Art Research* (in Chinese), (01): 56-58.10.13944/j.cnki.ysyj.2021.0023.
+
+## Mediatization of society
+- **Huang, H.** (2024). Figuration, Assemblage and ANT: the Process Turn and Ontology Reconstruction of Mediatization Research, *Tianfu New Idea* (in Chinese), the CSSCI Q2 in Sociological Theory, ,(04):137-146.
+- **Huang, H.** (2024). Dancing in Bathing Center: The Communicative Figuration of Dama Community in China’s Rustbelt city. *Media Criticism* (in Chinese), the CSSCI (Chinese Social Sciences Citation Index) Q1 in Cultural Studies.(Forthcoming)
 - **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
 cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https://github.com/mrjunjieli/IB_ON_CNN)
+
+
+# ✈️ Competitive Conference Presentations
+- **Huang, H.** (2024 June). Dancing in Bathing Center: The Communicative Figuration of Dama Community in China’s Rustbelt city. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
+- Li, C. and **Huang, H.** (2024 June). From Identity Politics to Emotion Politics: Dual Creation and Life Narration of China COVID-19 Documentary. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
+- **Huang, H.** and Lai, H. (2024 November). Make Conscientious National Goods Great Again: The National Goods Patriotism and the Construction of Discourse Opportunity Structure on China Social Platform. Paper to be presented at the annual meeting of the National Communication Association, New Orleans, the United States.
+- **Huang, H.** and Li, C. (2024 July). “Hidden in the Character Costume of Brand”: the Invisible Labor and Double Exploitation of Social Media Workers in Chinese Platform. Paper to be presented at the annual meeting of International Association For Media and Communication Rresearch, Chrischurch, New Zealand.
+- Li, C. and **Huang, H.** (2024 July).From Love Transference to Fantasy Production: The Relationship
+Expectations and Subjectivity Reconstruction of Chinese "Coupling" (CP) Fans. Paper to be presented at the annual meeting of International Association For Media and Communication Rresearch, Chrischurch, New Zealand.
+- Wu, S. and **Huang, H.** (2023 November). Cross-cultural Memory in the Digital Age: Concept Pedigree, Research Orientation and Theoretical Imagination. Paper to be presented at the annual meeting of Chinese Association for History of Journalism and Communication (the Top Annal Communication Conference of China), Guangzhou, China.
+- **Huang, H.(2024).** ”You can take your phone into Hammam”: The vision governance and mediatization change of Public Baths in the Northeast China. Paper to be presented at the annual meeting of Taiwan Communication Association. 
+
 
 # 🎖 Honors and Awards
 - 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
@@ -68,6 +116,8 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 - 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
+
+# 🧮 Skills and Interests 
 
 
 <!-- 
