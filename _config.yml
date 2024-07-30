@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junjie LI"
-description              : "A Ph.D candidate at The Hong Kong Polytechnic University"
+title                    : "Haoyu Huang"
+description              : "A master's student at Wuhan University. At present, I am seeking a Ph.D. opportunity."
 repository               : "raymond-haoyu/haoyuhuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junjie LI"
-  avatar           : "images/Junjie.jpg"
+  name             : "Haoyu Huang"
+  avatar           : "images/Haoyu.jpg"
   bio              : "[Curriculum Vitae]"
-  location         : "Hong Kong SAR, China"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "junjie98.li@connect.polyu.hk"
+  email            : "raymond_huang@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
