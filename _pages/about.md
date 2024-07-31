@@ -33,6 +33,11 @@ My research interest includes Culture, History and Activism in Chinese Internet,
 &emsp;&emsp;&emsp;&emsp; School of Journalism and Communication, Liaoning University, Shenyang.<br>
 &emsp;&emsp;&emsp;&emsp; GPA: 4.17/4.3, Rank: 1/23
 
+**Summer School**
+- 2023.07 Sino-French Joint Summer School on Communication, Shanghai Jiao Tong University, Shanghai.
+- 2023.08 Sun Yat-sen University Computational Social Science Workshop, Sun Yat-sen University, Guangzhou.
+- 2019.07 Peking University Summer School on Journalism and Communication, Peking University, Beijing.
+
 # 💻 Research Experience
 <h2 style="display: flex; justify-content: space-between;"> 
   <span><strong>Research on Cross-cultural Memory and Cultural Identity in the Digital Age</strong></span> 
@@ -48,14 +53,13 @@ My research interest includes Culture, History and Activism in Chinese Internet,
 
 <h2 style="display: flex; justify-content: space-between;"> 
   <span><strong>Research on the Empirical Exploration of Communicative Figurations and the Mediatization of Urban Life in Northeast China </strong></span> 
-  <span style="margin-left: auto;">Wuhan, China</span> 
 </h2>
   <div style="display: flex; justify-content: space-between;">
   <span><em>Project Manager, affiliated with a Graduate Research Funding Program</em></span>
   <span style="margin-left: auto;">Sep 2022 - Present</span>
 </div>
 - <p><strong>Conducted a comprehensive review of literature on mediatization studies.</strong> Highlighting the significance of the concept of communicative figuration as a crucial link between communication studies and social change. Expanded the analytical framework of communicative figuration and explored its applicability in understanding the mediatization process in Chinese urban contexts.</p>
-- <p><strong>Conducted a six-month ethnographic study in bathhouses in Shenyang, China. </strong> Focusing on the interactional dynamics of ‘place-media-actors’ through the lens of communicative figuration. This research explored how mediatization, as a meta-process, intersects with gentrification and urbanization, shaping contemporary life experiences.</p>
+- <p><strong>Conducted a six-month ethnographic study in public baths in Shenyang, China. </strong> Focusing on the interactional dynamics of ‘place-media-actors’ through the lens of communicative figuration. This research explored how mediatization, as a meta-process, intersects with gentrification and urbanization, shaping contemporary life experiences.</p>
 - <p><strong>Investigated changes in actors’ perceptions of privacy influenced by media within the field.</strong> Developed the concept of ‘visual management’ to explain how mediatization affects actors’ privacy perceptions, media practices, and specific actions. Further examined these changes within the context of a specific regional setting, post-collectivist culture, and a deeply mediatization environment.</p>
 
 <h2 style="display: flex; justify-content: space-between;"> 
@@ -121,12 +125,12 @@ Expectations and Subjectivity Reconstruction of Chinese "Coupling" (CP) Fans. Pa
 - 2020 First Prize for Student Paper at the Visual Anthropology Subcommittee of the Chinese Ethnological Association （3 Students Only）
 
 ## Scholarship  
-- 2023 First Prize Scholarship for Graduate Student(Top 5%)
+- 2023 First Prize Scholarship for Graduate Student (Top 5%)
 - 2022 National Inspiration Scholarship (Top 1%) 
-- 2022 First Prize Scholarship for Undergraduate Student(Top 5%) 
-- 2021 First Prize Scholarship for Undergraduate Student(Top 5%)
-- 2020 First Prize Scholarship for Undergraduate Student(Top 5%)
-- 2019 First Prize Scholarship for Undergraduate Student(Top 5%)
+- 2022 First Prize Scholarship for Undergraduate Student (Top 5%) 
+- 2021 First Prize Scholarship for Undergraduate Student (Top 5%)
+- 2020 First Prize Scholarship for Undergraduate Student (Top 5%)
+- 2019 First Prize Scholarship for Undergraduate Student (Top 5%)
 
 # 🧮 Skills and Interests 
 - **Languages:** Mandarin Chinese, English **(IELTS: 7)**, The dialect of Southern Fujian（hokkien or taiwannese, basic）
