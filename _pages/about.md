@@ -47,6 +47,18 @@ My research interest includes Culture, History and Activism in Chinese Internet,
 - <p><strong>(In Progress) Empirical Research on Cross-Cultural Memory.</strong> Utilizing methodologies such as big data text mining, LDA semantic analysis, and critical discourse analysis, I explore empirical cases of cross-cultural memory. Through rigorous investigation, we want to enriching our understanding of cross-cultural memory dynamics and contributing to scholarly discourse.</p>
 
 <h2 style="display: flex; justify-content: space-between;"> 
+  <span><strong>Research on the Empirical Exploration of Communicative Figurations and the Mediatization of Urban Life in Northeast China </strong></span> 
+  <span style="margin-left: auto;">Wuhan, China</span> 
+</h2>
+  <div style="display: flex; justify-content: space-between;">
+  <span><em>Project Manager, affiliated with a Graduate Research Funding Program</em></span>
+  <span style="margin-left: auto;">Sep 2022 - Present</span>
+</div>
+- <p><strong>Conducted a comprehensive review of literature on mediatization studies.</strong> Highlighting the significance of the concept of communicative figuration as a crucial link between communication studies and social change. Expanded the analytical framework of communicative figuration and explored its applicability in understanding the mediatization process in Chinese urban contexts.</p>
+- <p><strong>Conducted a six-month ethnographic study in bathhouses in Shenyang, China. </strong> Focusing on the interactional dynamics of ‘place-media-actors’ through the lens of communicative figuration. This research explored how mediatization, as a meta-process, intersects with gentrification and urbanization, shaping contemporary life experiences.</p>
+- <p><strong>Investigated changes in actors’ perceptions of privacy influenced by media within the field.</strong> Developed the concept of ‘visual management’ to explain how mediatization affects actors’ privacy perceptions, media practices, and specific actions. Further examined these changes within the context of a specific regional setting, post-collectivist culture, and a deeply mediatization environment.</p>
+
+<h2 style="display: flex; justify-content: space-between;"> 
   <span><strong>Research on the Correction Effect and Optimization of Health Rumor Information under the Background of Big Data</strong></span> 
   <span style="margin-left: auto;">Wuhan, China</span> 
 </h2>
@@ -85,8 +97,6 @@ My research interest includes Culture, History and Activism in Chinese Internet,
 ## Mediatization of society
 - **Huang, H.** (2024). Figuration, Assemblage and ANT: the Process Turn and Ontology Reconstruction of Mediatization Research, *Tianfu New Idea* (in Chinese), the CSSCI Q2 in Sociological Theory, ,(04):137-146.
 - **Huang, H.** (2024). Dancing in Bathing Center: The Communicative Figuration of Dama Community in China’s Rustbelt city. *Media Criticism* (in Chinese), the CSSCI (Chinese Social Sciences Citation Index) Q1 in Cultural Studies.(Forthcoming)
-- **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
-cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https://github.com/mrjunjieli/IB_ON_CNN)
 
 
 # ✈️ Competitive Conference Presentations
@@ -101,25 +111,29 @@ Expectations and Subjectivity Reconstruction of Chinese "Coupling" (CP) Fans. Pa
 
 
 # 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
-- 2016-2017 Merit Student (top 5%)[[pdf]](../pdf/Award_MeritStudent_.pdf)
-- 2017-2018 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd_.pdf)
-- 2018-2019 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd.pdf)
-- 2018-2019 Merit Student (top 5%) [[pdf]](../pdf/Award_MeritStudent.pdf)
-- 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
-- 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
+## Awards
+- 2023 Second Prize for Excellent Student Paper at the Annual Media Culture Research Conference （2 Students Only）
+- 2022 First Prize at the Jiangsu Provincial Graduate Forum on Journalism and Communication （3 Students Only）
+- 2022 First Prize at the Guangdong Provincial Graduate Forum on Journalism and Communication （3 Students Only）
+- 2023 Outstanding Graduate Student (Top 10%)
+- 2022 Outstanding Undergraduate Thesis (Top 5%)
+- 2021 Outstanding college students in Shenyang (Top 3%)
+- 2020 First Prize for Student Paper at the Visual Anthropology Subcommittee of the Chinese Ethnological Association （3 Students Only）
 
-# 😄 Academic Activities 
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
-
+## Scholarship  
+- 2023 First Prize Scholarship for Graduate Student(Top 5%)
+- 2022 National Inspiration Scholarship (Top 1%) 
+- 2022 First Prize Scholarship for Undergraduate Student(Top 5%) 
+- 2021 First Prize Scholarship for Undergraduate Student(Top 5%)
+- 2020 First Prize Scholarship for Undergraduate Student(Top 5%)
+- 2019 First Prize Scholarship for Undergraduate Student(Top 5%)
 
 # 🧮 Skills and Interests 
-
-
+- **Languages:** Mandarin Chinese, English **(IELTS: 7)**, The dialect of Southern Fujian（hokkien or taiwannese, basic）
+- **Programming Languages:** Python(numpy, pandas, scikit-learning, nltk, jieba), R(current learning)
+- **Software and Tools:** SPSS, Gephi, UCINET, Nivivo, MAXQDA, LaTex, Markdown, Excel
+- **Interests:** Swimming, Baking, Hiking, Meditation, Photography
+  
 <!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
