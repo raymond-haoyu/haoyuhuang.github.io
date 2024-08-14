@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<div id="about-me"></div>
 
 I am currently a master's student at the School of Journalism and Communication, Wuhan University. My superivisor is <a href="[https://www.researchgate.net/scientific-contributions/Shiwen-Wu-2195195802]"> Professor Shiwen Wu</a> . At present, I am seeking a Ph.D. opportunity. In the second year of my postgraduate, I had the honor to participate in an exchange program at National Chengchi University (NCCU), where I studied Mixed Research methods, Global Communication and Social Movement, Contemporary Chinese Society studies at the College of Communication and Graduate Institute of East Asian Studies.
 
