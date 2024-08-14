@@ -87,7 +87,7 @@ My research interest includes **Culture, History and Activism in Chinese Interne
 - (With Editor) **Huang, H.** and Lai, H. (2024). Make Conscientious National Goods Great Again: The National Goods Patriotism and the Construction of Discourse Opportunity Structure on China Social Platform. *Journal of Information Technology & Politics*.
 - (Under Preparation) Wu, S., Yang, X. and **Huang, H.** (2024). Ancient Scripts enter the New World of Computing: The Historical Evolution of Chinese Input Methods. *Technology in Society*.
 
-## Cross-Cultural Memory and Communication
+## Transcultural Memory and Communication
 -  Wang, X. and **Huang, H.** (2023). Pain and Consensus: A Cross-Cultural Communication Theory and Price of Trauma Common Sense. *Journalism & Communication Review* (in Chinese), the CSSCI (Chinese Social Sciences Citation Index) Q1 in Communication, *76*(04): 82-90. 10.14086/j.cnki.xwycbpl.2023.04.008.
 -  Wang, X. and **Huang, H.** (2021). A Study on the Cross-cultural Narration of Chinese Traditional Cultural Symbols: Based on the Investigation of Tu Fu’s Communication in the English World. *Journalism & Communication Review* (in Chinese), *74*(05):121-128. 10.14086/j.cnki.xwycbpl.2021.05.010.
 -  Wang, X. and **Huang, H.** (2021). The Shift, Reshaping and Justification of Historical Movies: The Racial Political Turn of Contemporary American Historical Movies and the Strategy of Discourse Articulation, *Journal of Shanghai University* (in Chinese), the CSSCI Q1 in Film Studies, *38*(06):56-67.
@@ -100,7 +100,7 @@ My research interest includes **Culture, History and Activism in Chinese Interne
 
 
 # ✈️ Competitive Conference Presentations
-<div id="-competitive-conference-presentations"></div>
+<div id="competitive-conference-presentations"></div>
 - **Huang, H.** (2024 June). Dancing in Bathing Center: The Communicative Figuration of Dama Community in China’s Rustbelt city. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
 - Li, C. and **Huang, H.** (2024 June). From Identity Politics to Emotion Politics: Dual Creation and Life Narration of China COVID-19 Documentary. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
 - **Huang, H.** and Lai, H. (2024 November). Make Conscientious National Goods Great Again: The National Goods Patriotism and the Construction of Discourse Opportunity Structure on China Social Platform. Paper to be presented at the annual meeting of the National Communication Association, New Orleans, the United States.
