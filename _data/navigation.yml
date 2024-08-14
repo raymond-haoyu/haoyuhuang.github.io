@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
 
   - title: "Competitive Conference Presentations"
-    url: "#competitive-conference-presentations" 
+    url: "/#-competitive-conference-presentations" 
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
