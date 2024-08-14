@@ -6,16 +6,19 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internship Experience"
-    url: "/#-internship-experience"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
   - title: "Publications"
     url: "/#-publications"
 
+ - title: "Competitive Conference Presentations"
+    url: "/#-competitive-conference-presentations" 
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Acdemica activities"
-    url: "/#-academic-activities"
+  - title: "Skills and Interests"
+    url: "/#-skills-and-interests"
 
 
