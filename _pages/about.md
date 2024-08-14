@@ -100,6 +100,7 @@ My research interest includes **Culture, History and Activism in Chinese Interne
 
 
 # ✈️ Competitive Conference Presentations
+<div id="-competitive-conference-presentations"></div>
 - **Huang, H.** (2024 June). Dancing in Bathing Center: The Communicative Figuration of Dama Community in China’s Rustbelt city. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
 - Li, C. and **Huang, H.** (2024 June). From Identity Politics to Emotion Politics: Dual Creation and Life Narration of China COVID-19 Documentary. Paper to be presented at the annual meeting of the International Communication Association, Golden Coast, Australia.
 - **Huang, H.** and Lai, H. (2024 November). Make Conscientious National Goods Great Again: The National Goods Patriotism and the Construction of Discourse Opportunity Structure on China Social Platform. Paper to be presented at the annual meeting of the National Communication Association, New Orleans, the United States.
