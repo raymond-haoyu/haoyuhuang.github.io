@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
+  googlescholar    : 
   email            : "raymond_huang@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -35,15 +35,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100094422021404&mibextid=LQQJ4d"
   foursquare       :
-  github           : mrjunjieli # e.g., "github username"
+  github           :  # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : junjie-li-4b0a17303 # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
