@@ -26,7 +26,7 @@ My research interest includes **Culture, History and Activism in Chinese Interne
 # 📖 Educations
 - **Present-2025 &emsp; M.A. in Communication Studies**<br>
 &emsp;&emsp;&emsp;&emsp; School of Journalism and Communication, Wuhan University, Wuhan.<br>
-&emsp;&emsp;&emsp;&emsp; GPA: 3.92/4.0, Rank:1/31
+&emsp;&emsp;&emsp;&emsp; GPA: 3.71/4.0, Rank:1/31
 - **2024 &emsp; Exchange Graduate Student in Communication**<br>
 &emsp;&emsp;&emsp;&emsp; National ChengChi University, Taipei.
 - **2022 &emsp; B.A. in Journalism of Broadcast and Television**<br>
